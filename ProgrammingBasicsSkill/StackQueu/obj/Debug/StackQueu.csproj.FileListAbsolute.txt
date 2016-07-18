@@ -6,3 +6,6 @@ C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\Stack
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.exe.config
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\obj\Debug\StackQueu.exe
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\obj\Debug\StackQueu.pdb
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.exe
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.pdb
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\StackQueu\obj\Debug\StackQueu.csprojResolveAssemblyReference.cache
