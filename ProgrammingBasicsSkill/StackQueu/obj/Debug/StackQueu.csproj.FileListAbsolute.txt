@@ -1,0 +1,5 @@
+C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.exe.config
+C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.exe
+C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\StackQueu\bin\Debug\StackQueu.pdb
+C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\StackQueu\obj\Debug\StackQueu.exe
+C:\Users\Dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\StackQueu\obj\Debug\StackQueu.pdb

@@ -1,0 +1,6 @@
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe.config
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.pdb
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.csprojResolveAssemblyReference.cache
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.exe
+c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.pdb
