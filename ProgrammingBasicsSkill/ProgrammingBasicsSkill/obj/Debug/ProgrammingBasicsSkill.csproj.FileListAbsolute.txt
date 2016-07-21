@@ -4,3 +4,9 @@ c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\Progr
 c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.csprojResolveAssemblyReference.cache
 c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.exe
 c:\users\dung\documents\visual studio 2015\Projects\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.pdb
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe.config
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.pdb
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.exe
+D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.pdb
