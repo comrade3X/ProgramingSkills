@@ -10,8 +10,9 @@ namespace Searching
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] { 1, 2, 3, 4, 5 };
-            LinearSearch(arr, 3);
+            int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+            //LinearSearch(arr, 3);
+            BinarySearch(arr, 115, 0, arr.Length);
             Console.ReadLine();
         }
 
@@ -32,18 +33,52 @@ namespace Searching
         {
             int i = 0;
 
-            if (i > arr.Length)
+            while (arr[i] != input && i < arr.Length)
             {
-                Console.WriteLine("Not found");
+                i++;
+                if (i > arr.Length)
+                {
+                    Console.WriteLine("Not found");
+                    return;
+                }
+            }
+
+            Console.WriteLine("Element {0} found at index {1}", arr[i], i);
+        }
+
+        /// <summary>
+        /// 
+        /// Binary Search ( T array, T input)
+        /// (ap dung cho day co Values tang dan:)
+        /// eg: Find By Id
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <param name="input"></param>
+        static void BinarySearch(int[] arr, int input, int first, int last)
+        {           
+            if (first > last)
+            {
+                Console.Write("Not Found");
                 return;
             }
 
-            while (arr[i]!=input && i < arr.Length)
-            {              
-                i++;             
+            int mid = (first + last) / 2;
+
+            if (input == arr[mid])
+            {
+                Console.Write("Element {0} found at index {1}", input, mid);
+                return;
             }
 
-            Console.WriteLine("Element {0} found at index {1}",arr[i],i);
+            if (input < arr[mid])
+            {
+                BinarySearch(arr, input, first, mid);
+            }
+
+            if (input > arr[mid])
+            {
+                BinarySearch(arr, input, mid, last);
+            }   
         }
     }
 }
