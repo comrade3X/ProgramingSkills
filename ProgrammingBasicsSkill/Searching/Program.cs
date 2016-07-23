@@ -12,7 +12,7 @@ namespace Searching
         {
             int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
             //LinearSearch(arr, 3);
-            BinarySearch(arr, 115, 0, arr.Length);
+            BinarySearch2(arr, 15, 0, arr.Length);
             Console.ReadLine();
         }
 
@@ -55,13 +55,15 @@ namespace Searching
         /// <param name="arr"></param>
         /// <param name="input"></param>
         static void BinarySearch(int[] arr, int input, int first, int last)
-        {           
+        {
+            // Kiem tra het pham vi tim kiem
             if (first > last)
             {
                 Console.Write("Not Found");
                 return;
             }
 
+            //Tim vi tri o giua cua danh sach de so sanh
             int mid = (first + last) / 2;
 
             if (input == arr[mid])
@@ -78,7 +80,37 @@ namespace Searching
             if (input > arr[mid])
             {
                 BinarySearch(arr, input, mid, last);
-            }   
+            }
+        }
+
+
+        /// <summary>
+        /// Binary Search 2 
+        /// (khong su dung de quy)
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <param name="input"></param>
+        /// <param name="first"></param>
+        /// <param name="last"></param>
+        static void BinarySearch2(int[] arr, int input, int first, int last)
+        {
+            while (first < last)
+            {
+                int mid = (last + first) / 2;
+                if (input == arr[mid])
+                {
+                    Console.Write("Element {0} found at intdex {1}", input, mid);
+                    return;
+                }
+                if (input > arr[mid])
+                {
+                    first = mid;
+                }
+                if (input < arr[mid])
+                {
+                    last = mid;
+                }
+            }
         }
     }
 }
