@@ -54,6 +54,14 @@ namespace Searching
         /// </summary>
         /// <param name="arr"></param>
         /// <param name="input"></param>
+        /// <param name="first"></param>
+        /// <param name="last"></param>
+        /// Method:
+        /// Tim kiem tu vi tri "first"-> "last"
+        /// Khoi tao 1 phan tu "mid" la vi tri o giua cua day
+        /// So sanh "input" voi "arr[mid]"
+        /// Neu "input" nho hon "arr[mid]" , tim kiem trong pham vi "first" -> "mid"
+        /// Neu "input" lon hon "arr[mid]" , tim kiem trong pham vi "mid"-> "last"
         static void BinarySearch(int[] arr, int input, int first, int last)
         {
             // Kiem tra het pham vi tim kiem
