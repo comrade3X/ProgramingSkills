@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithm", "Algorithm", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching", "Searching\Searching.csproj", "{22A8EE0E-8C3D-4B38-9E6E-11DDE1DE7B5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{AE1D38AE-2D1D-4463-A9B5-480AD01B939F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,11 +37,16 @@ Global
 		{22A8EE0E-8C3D-4B38-9E6E-11DDE1DE7B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A8EE0E-8C3D-4B38-9E6E-11DDE1DE7B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A8EE0E-8C3D-4B38-9E6E-11DDE1DE7B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1D38AE-2D1D-4463-A9B5-480AD01B939F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1D38AE-2D1D-4463-A9B5-480AD01B939F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1D38AE-2D1D-4463-A9B5-480AD01B939F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1D38AE-2D1D-4463-A9B5-480AD01B939F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{22A8EE0E-8C3D-4B38-9E6E-11DDE1DE7B5A} = {14E96EA7-BD11-4BC9-8805-D2A65BB0499C}
+		{AE1D38AE-2D1D-4463-A9B5-480AD01B939F} = {14E96EA7-BD11-4BC9-8805-D2A65BB0499C}
 	EndGlobalSection
 EndGlobal
