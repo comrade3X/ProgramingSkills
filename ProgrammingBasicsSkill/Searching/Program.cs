@@ -17,8 +17,10 @@ namespace Searching
         }
 
         /// <summary>
-        /// 
         /// Linear Search (Array A, Value X)
+        /// 
+        /// Method(Idea):
+        /// Duyet trong danh sach, so sanh voi gia tri can tim cho toi khi tim thay hoac het danh sach.
         /// 
         /// </summary>
         /// <Step 1> Set i to 0</Step1>
@@ -49,14 +51,16 @@ namespace Searching
         /// <summary>
         /// 
         /// Binary Search ( T array, T input)
-        /// (ap dung cho day co Values tang dan:)
+        /// (ap dung cho day co Values tang dan)
         /// eg: Find By Id
+        /// 
         /// </summary>
         /// <param name="arr"></param>
         /// <param name="input"></param>
         /// <param name="first"></param>
         /// <param name="last"></param>
-        /// Method:
+        /// 
+        /// Method(Idea):
         /// Tim kiem tu vi tri "first"-> "last"
         /// Khoi tao 1 phan tu "mid" la vi tri o giua cua day
         /// So sanh "input" voi "arr[mid]"
