@@ -20,29 +20,36 @@ namespace Sorting
         /// </summary>
         public static void BubbleSort()
         {
-            Random rd = new Random();
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] = rd.Next(20);
-            }          
+            var array = GenerateRamdonArray(arr);
 
             //Duyet ca mang
-            for (int i = 0; i < arr.Length - 1; i++)
+            for (int i = 0; i < array.Length - 1; i++)
             {
                 //Tim va dua 1 phan tu len vi tri cao nhat.
-                for (int j = arr.Length - 1; j > i; j--)
+                for (int j = array.Length - 1; j > i; j--)
                 {
-                    if (arr[j] < arr[j - 1])
+                    if (array[j] < array[j - 1])
                     {
-                        Swap<int>(arr[j], arr[j - 1], x => arr[j] = x, y => arr[j - 1] = y);
+                        Swap<int>(array[j], array[j - 1], x => array[j] = x, y => array[j - 1] = y);
                     }
                 }
             }
 
-            foreach (var item in arr)
+            foreach (var item in array)
             {
                 Console.Write(item + " ");
             }
+        }
+
+        /// <summary>
+        /// Quick Sort ( Partitioning Sort)
+        /// 
+        /// Sắp xếp nhanh ( sắp xếp phân mảnh)
+        /// 
+        /// </summary>
+        public static void QuickSort()
+        {
+
         }
     }
 }

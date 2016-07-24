@@ -17,6 +17,16 @@ namespace Support
         }
 
         public static int[] arr = new int[20];
+
+        public static int[] GenerateRamdonArray(int[] array)
+        {
+            Random random = new Random();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = random.Next(20);
+            }
+            return arr;
+        }
         #endregion
     }
 }

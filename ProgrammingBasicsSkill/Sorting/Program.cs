@@ -29,12 +29,7 @@ namespace Sorting
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
-        {
-            //var a = 100;
-            //var b = 200;
-            //Console.WriteLine("Gia tri a :{0} /n Gia tri b : {1}", a, b);
-            //Swap<int>(a, b, x => a = x, y => b = y);
-            //Console.WriteLine("Gia tri a :{0} /n Gia tri b : {1}", a, b);
+        {            
             ExchangeSort.BubbleSort();
             Console.ReadLine();
         }
