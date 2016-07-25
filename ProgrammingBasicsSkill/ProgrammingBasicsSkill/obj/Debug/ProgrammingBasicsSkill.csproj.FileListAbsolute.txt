@@ -10,3 +10,9 @@ D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasic
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.exe
 D:\Visual Studio 2015_Documents\Projects\ProgramingSkills\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.pdb
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe.config
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.exe
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\bin\Debug\ProgrammingBasicsSkill.pdb
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.csprojResolveAssemblyReference.cache
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.exe
+C:\Users\Dung\Documents\Visual Studio 2015\Projects\ProgramingSkills.git\trunk\ProgrammingBasicsSkill\ProgrammingBasicsSkill\obj\Debug\ProgrammingBasicsSkill.pdb
