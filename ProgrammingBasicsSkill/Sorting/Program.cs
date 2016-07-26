@@ -29,8 +29,11 @@ namespace Sorting
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
-        {            
-            ExchangeSort.BubbleSort();
+        {
+            //ExchangeSort.BubbleSort();
+            int[] array = new int[10];
+            array = GenerateRamdonArray(array);
+            ExchangeSort.QuickSort(array, 0, array.Length - 1);
             Console.ReadLine();
         }
     }
